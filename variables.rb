@@ -4,8 +4,8 @@ user_name # "kevinc"
 favorite_color = "purple"
 favorite_color # "green"
 
-favorite_pet = lila
-favorite_pet # Dino
+favorite_pet = "lila"
+favorite_pet # "Dino"
 
 favorite_number = 10
 
